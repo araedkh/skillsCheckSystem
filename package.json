@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaygpt/Skillcheck.git"
+    "url": "git+https://github.com/araedkh/skillsCheckSystem.git"
   },
-  "author": "Jay Gupta",
+  "author": "Alaa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jaygpt/Skillcheck/issues"
+    "url": "https://github.com/araedkh/skillsCheckSystem/issues"
   },
-  "homepage": "https://github.com/jaygpt/Skillcheck#readme",
+  "homepage": "https://github.com/araedkh/skillsCheckSystem#readme",
   "dependencies": {
     "fs-extra": "^8.0.1",
     "ganache-cli": "^6.4.3",
